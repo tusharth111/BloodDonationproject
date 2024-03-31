@@ -27,7 +27,8 @@
   font-weight:bold;
 }
 
-/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+/* Style the logo link 
+  r */
 .header a.logo {
   font-size: 25px;
   font-weight: bold;
